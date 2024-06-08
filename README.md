@@ -36,7 +36,7 @@ Ve ![resim](https://github.com/RelaX0001/RelaX-Dc-Sms-Bomber/assets/149694302/a5
 
 Şu 3 Yer'i Açın!
 
-Sonra DİSCORD_BOT_TOKEN_YAZ Yazan Yere Discord Devloper Portal'da Oluşturduğunuz Bot Tokenini Yapıştırın!
+Sonra DİSCORD_BOT_TOKEN_YAZ Yazan Yere [Discord Devloper Portal](https://discord.com/developers/)'da Oluşturduğunuz Bot Tokenini Yapıştırın!
 
 Sonra Ctrl + S İle Kaydedin!
 
