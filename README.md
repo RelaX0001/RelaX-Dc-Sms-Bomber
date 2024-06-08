@@ -1,6 +1,5 @@
 # RelaX-Dc-Sms-Bomber
 
-# RelaX Dc Sms Bomber
 Çok Basit Bir Discord Sms Bober Botu!
 
 ## 🔍 〢 Gereksinimler
@@ -33,11 +32,16 @@ Orada'ki 🔴 index.js 🔴 Adlı Dosyayı Txt İle Açın, Sonra En Altta'ki 14
 ```
 "client.login('DİSCORD_BOT_TOKEN_YAZ').catch(() => console.log('Tokeni Kontrol Ediniz'.red));",
 ```
-Yazan Yere Discord Devloper Portal'da Oluşturduğunuz Bot Tokenini Yapıştırın!
+Ve ![resim](https://github.com/RelaX0001/RelaX-Dc-Sms-Bomber/assets/149694302/a5d66875-ebfa-4d44-8345-1932acb3d133)
+
+Şu 3 Yer'i Açın!
+
+Sonra DİSCORD_BOT_TOKEN_YAZ Yazan Yere Discord Devloper Portal'da Oluşturduğunuz Bot Tokenini Yapıştırın!
 
 Sonra Ctrl + S İle Kaydedin!
 
 Sonra RelaX-Dc-Sms-Bomber Dizini'ne Dönün! Orada'ki
+
 Bende Yukarıda Böyle Yazıyor (Video Ya Bakabilirsin!)
 ```
 C:\Users\Administrator\Desktop\RelaX-Dc-Sms-Bomber
