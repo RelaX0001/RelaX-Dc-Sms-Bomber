@@ -34,7 +34,7 @@ Orada'ki 🔴 index.js 🔴 Adlı Dosyayı Txt İle Açın, Sonra En Altta'ki 14
 ```
 Ve ![resim](https://github.com/RelaX0001/RelaX-Dc-Sms-Bomber/assets/149694302/a5d66875-ebfa-4d44-8345-1932acb3d133)
 
-Şu 3 Yer'i Açın!
+Şu 4 Yer'i Açın!
 
 Sonra DİSCORD_BOT_TOKEN_YAZ Yazan Yere [Discord Devloper Portal](https://discord.com/developers/)'da Oluşturduğunuz Bot Tokenini Yapıştırın!
 
@@ -65,9 +65,10 @@ Normal'de **/relaxbomber** İle Çalışır!
 RelaX-Dc-Sms-Bomber
 
 ## ⚙️ 〢 Kurulum Videosu
-- Gelecek
+- [İzle](https://vimeo.com/955391739)
 ## 🔍 〢 Test Edildi:
 - Windows 10
+- Windows 11
 
 ⛔⛔Eğitim Amaçlıdır, Sonunda Karşılaşacağınız Sorunlardan Tarafım Ve Ben Sorumlu Deilizdir Sorumluluk Tamamen Size Aittir!⛔⛔
 
